@@ -1,0 +1,129 @@
+{
+	"colorful-comments.tags": [
+		{
+			"tag": "@if",
+			"color": "#FF06A0",
+			"strikethrough": false,
+			"backgroundColor": "transparent",
+			"bold": true,
+			"italic": false
+		},
+		{
+			"tag": "@endif",
+			"color": "#FF06A0",
+			"strikethrough": false,
+			"backgroundColor": "transparent",
+			"bold": true,
+			"italic": false
+		},
+		{
+			"tag": "@include",
+			"color": "#FF06A0",
+			"strikethrough": false,
+			"backgroundColor": "transparent",
+			"bold": true,
+			"italic": false
+		},
+		{
+			"tag": "#",
+			"color": "#FF06A0",
+			"strikethrough": false,
+			"backgroundColor": "transparent",
+			"bold": true,
+			"italic": false
+		},
+		{
+			"tag": "=",
+			"color": "#0076FF",
+			"strikethrough": false,
+			"backgroundColor": "transparent",
+			"bold": true,
+			"italic": false
+		},
+		{
+			"tag": "!",
+			"color": "#FF2D00",
+			"strikethrough": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "?",
+			"color": "#0076FF",
+			"strikethrough": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "//",
+			"color": "#474747",
+			"strikethrough": true,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "^",
+			"color": "#EAF622",
+			"strikethrough": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "*",
+			"color": "#28FF00",
+			"strikethrough": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "&",
+			"color": "#FF06A0",
+			"strikethrough": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "~",
+			"color": "#BE00FF",
+			"strikethrough": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "todo",
+			"color": "#FF8C00",
+			"strikethrough": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		}
+	],
+	"workbench.colorCustomizations": {
+		"activityBar.activeBackground": "#003b4d",
+		"activityBar.background": "#003b4d",
+		"activityBar.foreground": "#e7e7e7",
+		"activityBar.inactiveForeground": "#e7e7e799",
+		"activityBarBadge.background": "#bf0093",
+		"activityBarBadge.foreground": "#e7e7e7",
+		"commandCenter.border": "#e7e7e799",
+		"sash.hoverBorder": "#003b4d",
+		"statusBar.background": "#00141a",
+		"statusBar.foreground": "#e7e7e7",
+		"statusBarItem.hoverBackground": "#003b4d",
+		"statusBarItem.remoteBackground": "#00141a",
+		"statusBarItem.remoteForeground": "#e7e7e7",
+		"titleBar.activeBackground": "#00141a",
+		"titleBar.activeForeground": "#e7e7e7",
+		"titleBar.inactiveBackground": "#00141a99",
+		"titleBar.inactiveForeground": "#e7e7e799"
+	},
+	"peacock.color": "hsl(193, 100%, 5%)",
+	"typescript.tsdk": "node_modules\\typescript\\lib"
+}
